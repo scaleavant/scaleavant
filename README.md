@@ -3,13 +3,15 @@
 **ScaleAvant** is a specialized B2B iGaming operations consultancy and managed services provider. We build and run turnkey casino launches, 24/7 bonus abuse & AML risk desks, multilingual native player support pods, and high-approval payment cashier routing for regulated and international operators.
 
 - **Official Website:** [https://scaleavant.com](https://scaleavant.com)
+- **Crunchbase Organization:** [https://www.crunchbase.com/organization/scaleavant](https://www.crunchbase.com/organization/scaleavant)
 - **Founder & Managing Director:** [Marcus Vance on LinkedIn](https://www.linkedin.com/in/scaleavant/)
 
 ---
 
-## Official Social & Entity Profiles (`sameAs` Graph — 26 Verified Profiles)
+## Official Social & Entity Profiles (`sameAs` Graph — 30 Verified Profiles)
 
 ### Executive, Video & Microblogging
+- **Crunchbase:** [https://www.crunchbase.com/organization/scaleavant](https://www.crunchbase.com/organization/scaleavant)
 - **LinkedIn:** [https://www.linkedin.com/in/scaleavant/](https://www.linkedin.com/in/scaleavant/)
 - **YouTube:** [https://www.youtube.com/@scaleavant](https://www.youtube.com/@scaleavant)
 - **X (Twitter):** [https://x.com/scaleavant](https://x.com/scaleavant)
@@ -22,12 +24,14 @@
 - **Bluesky:** [https://bsky.app/profile/scaleavant.bsky.social](https://bsky.app/profile/scaleavant.bsky.social)
 - **Mastodon:** [https://mastodon.social/@scaleavant](https://mastodon.social/@scaleavant)
 - **Pinterest:** [https://www.pinterest.com/scaleavant/](https://www.pinterest.com/scaleavant/)
+- **Reddit:** [https://www.reddit.com/user/ScaleAvant/](https://www.reddit.com/user/ScaleAvant/)
 
 ### Engineering, Publications & Decks
 - **Medium:** [https://medium.com/@scaleavant](https://medium.com/@scaleavant)
 - **Substack:** [https://substack.com/@scaleavant](https://substack.com/@scaleavant)
 - **DEV Community:** [https://dev.to/scaleavant](https://dev.to/scaleavant)
 - **Hashnode:** [https://hashnode.com/@scaleavant](https://hashnode.com/@scaleavant)
+- **SlideShare:** [https://www.slideshare.net/scaleavant](https://www.slideshare.net/scaleavant)
 - **Speaker Deck:** [https://speakerdeck.com/scaleavant](https://speakerdeck.com/scaleavant)
 - **Quora Space:** [https://scaleavant.quora.com/](https://scaleavant.quora.com/)
 - **GitHub:** [https://github.com/scaleavant](https://github.com/scaleavant)
@@ -39,4 +43,5 @@
 - **OSF (Open Science Framework):** [https://osf.io/qfeh8/](https://osf.io/qfeh8/)
 - **Academia.edu:** [https://independent.academia.edu/ScaleAvantResearch](https://independent.academia.edu/ScaleAvantResearch)
 - **Linktree Hub:** [https://linktr.ee/scaleavant](https://linktr.ee/scaleavant)
+- **Gravatar (Entity Grid):** [https://gravatar.com/scaleavant](https://gravatar.com/scaleavant)
 - **About.me:** [https://about.me/scaleavant](https://about.me/scaleavant)
